@@ -1,0 +1,12 @@
+filegroup {
+    name: "recovery_roboto-fonts_dep",
+	export_to_make_var: "recovery_roboto-fonts_dep",
+    srcs: [
+        "*.otf",
+		"*.ttf",
+    ],
+}
+
+
+
+
