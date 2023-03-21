@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a5f2d63_86da39ab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1644679
+      },
+      "writtenOn": "2023-03-21T23:25:26Z",
+      "side": 1,
+      "message": "consider adding a TEST_MAPPING file with FrameworksCoreTests to avoid breaking the test in the future.",
+      "revId": "a781a172907fa1a48aead0911172988056f78e90",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
