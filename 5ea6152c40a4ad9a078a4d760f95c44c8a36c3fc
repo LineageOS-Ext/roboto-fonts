@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9541e35e_22af5c8d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1062848
+      },
+      "writtenOn": "2023-04-05T10:51:56Z",
+      "side": 1,
+      "message": "Hi Siyamed, can you take a look?\n\nThank you.",
+      "revId": "5ea6152c40a4ad9a078a4d760f95c44c8a36c3fc",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
